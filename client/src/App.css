@@ -24,6 +24,13 @@
   color: white;
 }
 
+.App-nav {
+  background-color: #C0BAC1;
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
